@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Mustefa Abdella
 
-💻 **Frontend Developer | Passionate about Building Real-World Web Apps with React, Node.js, and MongoDB**
+💻 **Frontend Developer | Passionate about Building Real-World Web Apps with JavaScript, React, and Tailwind CSS**
 
-I’m a dedicated developer who loves turning ideas into functional and interactive web experiences.  
-After mastering React through hands-on projects like a Task Manager app, I’m now diving into backend technologies to become a **Full-Stack Engineer** capable of building complete, data-driven solutions.
+I'm a dedicated developer who loves turning ideas into functional and interactive web experiences.  
+After mastering React through hands-on projects like a Task Manager app, I'm now diving into backend technologies to become a **Full-Stack Engineer** capable of building complete, data-driven solutions.
 
 ---
 
@@ -99,5 +99,3 @@ I aim to combine my frontend expertise with backend proficiency to deliver compl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustefaAbdella)
-
----
