@@ -31,6 +31,10 @@ After mastering React through hands-on projects like a Task Manager app, I'm now
 A task management web app built with React, enabling users to create, update, and delete tasks.  
 **Tech:** React, CSS, localStorage
 
+### 🗂️ [Bookmark Manager App](#)
+A bookmark management web app built with React, enabling users to create, update, delete, pin, unpin, archive, search, filter and sort tasks.  
+**Tech:** React, CSS, localStorage
+
 ### 📊 Dashboard App *(In Progress)*
 An analytics dashboard to visualize productivity data and manage tasks efficiently.  
 **Tech:** React, CSS, Context API, Chart.js (planned)
